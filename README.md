@@ -13,6 +13,7 @@ apt install nodejs -y
 pkg install git -y
 git clone https://github.com/xzmi007/fast.git
 cd fast
+git pull
 python2 fast.py
 ```
 
