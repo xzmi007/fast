@@ -48,7 +48,7 @@ logo = """
 \t\033[1;92m    ███████   ███   ██ ████ ██ ██
 \t\033[1;92m    ██   ██ ██      ██  ██  ██ ██
 \t\033[1;92m    ██   ██ ███████ ██      ██ ██
-\n\n\t\t\x1b[1;97m   THIS IS FREE TOOL
+\n\n\t\t\x1b[1;97m   THIS IS FREE TOOL UA
      """
 
 def reg():
